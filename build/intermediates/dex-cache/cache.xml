@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_a9c14372fa8bd98f8a8812bc55a5a182df13a499.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_19a788e43b60c8391c15b6697e95e9ef83be6f87.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_73f9ccb2c1ef81e0858721ac27cfd71fa9e6e477.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_8a677c3c6d590d53aebbfbd56dbc3e8e69f7f3fd.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_6b60f55fb1ab0894f9a69a5f680ec8a16c2b92d3.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8c3c315b93a490aaa8d58dd7d785e4eef12cbd27">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\instant-run_1feb922eafe18f5dc69b5da0e8cdb2c1056ea9d0.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_4ddde185f95b101ab05da98e86130fc62e364a7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\SilentControle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_98f78f9811dd5dd44389b423a07ea7609bc2009d.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_e0284e90150ab0ee9ad540dd626d230cfee6d20a.jar" />
+    </item>
+    <item
+        jar="C:\Users\SilentControle\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_56db78247f2b7fbd742d1a194baad0fb6da9a4bc.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_0718b232fc315f2e1bb0fb850b3e2e525900ba26.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_e3d4ed99924192912ba56fa6cee45f5362a35266.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5a6f1c3d9a005dd9e17948fac370d8eb2f66d2eb">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d9e2165bb8e1596707cdfbf6e79f6bc4a894da76.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_18421e0fd18c7b76763b9bdb4c893b6e36769708.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_94a3d9bd07b3d9814cfa2df6d6071f8c69155ab8.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_d7858047e4a64ec5a6f3950628c380cf58986175.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_c56540249c3c48b4091281bb21c3d7965dd3badd.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_208520dbad7ee53862e9e44ebae63bfdc657f3ef.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_d07331d789fa045803bfe2e45ed8fe26932efae0.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_e2022b8c005560e2c8800782ddc99735a1113cbf.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_e958b423736287d6cd503c66753fc4bb6d639df0.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_3f862433323e679efd32fc1df71378ebb9211ad6.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_84d125e29e7ad9a9f7826a2a5875932499791dbf.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_3891dda6474f5cc78eacfa46bf3132a34b1d1ff4.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_8dcef84e1ef67e1188f7466248dc917a4f351b68.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_5520e7995a19f9a0bb9dca519235f8ffee56ff64.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_40a72ce359a2994ba3ad67de69dbb9a3c86fe5c2.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_7af2fe7a43d62b0637cbfdf305ad6a74c9814bd9.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_462c80f216b4648e0db1bfdcb2729ddff80ae0a6.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_186a80d71d0933c68c99521e6fd4abc7a69fa324.jar" />
+    </item>
+    <item
+        jar="C:\tests\Administration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\tests\Administration\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_d66c62b5b0d24b192f04a04d7b3ed864fcea7282.jar" />
+    </item>
+
+</items>
